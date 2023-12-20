@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of the README file, including a description of the project as a university management system:
-
----
 
 # University Management System
 
